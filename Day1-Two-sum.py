@@ -1,3 +1,4 @@
+# Leetcode Q1
 class Solution:
     def twoSum(self, nums, target):
         seen = {}
